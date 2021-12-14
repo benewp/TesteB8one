@@ -1,0 +1,57 @@
+[
+  {
+    "seq": 1,
+    "codProd": 1001,
+    "imgUrl": "imgprod/image1.png",
+    "descr": "Monitor-1 LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG51",
+    "fullPr": "R$ 1.813,99",
+    "lowPr": "R$ 1.599,00",
+    "condPar": "em até 10x de R$ 159,90 sem juros",
+    "wList": false,
+    "cList": false
+  },
+  {
+    "seq": 2,
+    "codProd": 1002,
+    "imgUrl": "imgprod/image2.png",
+    "descr": "Monitor-2 LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG52",
+    "fullPr": "R$ 2.813,99",
+    "lowPr": "R$ 2.599,00",
+    "condPar": "em até 10x de R$ 259,90 sem juros",
+    "wList": false,
+    "cList": false
+  },
+  {
+    "seq": 3,
+    "codProd": 1003,
+    "imgUrl": "imgprod/image3.png",
+    "descr": "Monitor-3 LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG53",
+    "fullPr": "R$ 3.813,99",
+    "lowPr": "R$ 3.599,00",
+    "condPar": "em até 10x de R$ 359,90 sem juros",
+    "wList": false,
+    "cList": false
+  },
+  {
+    "seq": 4,
+    "codProd": 1004,
+    "imgUrl": "imgprod/image4.png",
+    "descr": "Monitor-4 LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG54",
+    "fullPr": "R$ 4.813,99",
+    "lowPr": "R$ 4.599,00",
+    "condPar": "em até 10x de R$ 459,90 sem juros",
+    "wList": false,
+    "cList": false
+  },
+  {
+    "seq": 5,
+    "codProd": 1005,
+    "imgUrl": "imgprod/image5.png",
+    "descr": "Monitor-5 LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG55",
+    "fullPr": "R$ 5.813,99",
+    "lowPr": "R$ 5.599,00",
+    "condPar": "em até 10x de R$ 559,90 sem juros",
+    "wList": false,
+    "cList": false
+  }
+]

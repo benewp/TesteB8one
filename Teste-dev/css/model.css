@@ -1,0 +1,1279 @@
+﻿/* adicionar-produto */
+
+position: relative;
+width: 1920px;
+height: 1024px;
+
+/* grayscale/300 */
+background: #E9EBEE;
+
+
+/* card-default */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+
+position: absolute;
+width: 304px;
+height: 568px;
+left: 160px;
+top: 228px;
+
+/* grayscale/0 */
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* image */
+
+position: static;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* image */
+
+position: absolute;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+background: url(image.png);
+
+
+/* wishlist */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 224px;
+top: 32px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 31.25%;
+bottom: 25%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+/* grayscale/900 */
+border: 2px solid #1C1C1C;
+
+
+/* content */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 152px;
+left: 32px;
+top: 304px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* Monitor LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG50 */
+
+position: static;
+width: 240px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* price */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 68px;
+left: 0px;
+top: 84px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* R$ 2.813,99 */
+
+position: static;
+width: 240px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.005em;
+text-decoration-line: line-through;
+
+/* grayscale/600 */
+color: #B5B5B6;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* R$ 2.599,00 */
+
+position: static;
+width: 240px;
+height: 24px;
+left: 0px;
+top: 24px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+letter-spacing: -0.005em;
+
+/* red/500 */
+color: #DA4B4F;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* em até 10x de R$ 259,90 sem juros */
+
+position: static;
+width: 240px;
+height: 16px;
+left: 0px;
+top: 52px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: -0.005em;
+
+/* grayscale/700 */
+color: #848587;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* button */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+position: static;
+width: 240px;
+height: 48px;
+left: 32px;
+top: 488px;
+
+/* green/400 */
+background: #40B25C;
+border-radius: 5px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* BUTTON */
+
+position: static;
+width: 91px;
+height: 24px;
+left: 74.5px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: -0.005em;
+text-transform: uppercase;
+
+/* grayscale/0 */
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* card-hover */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+
+position: absolute;
+width: 304px;
+height: 568px;
+left: 592px;
+top: 228px;
+
+/* grayscale/0 */
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+
+/* image */
+
+position: static;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* image */
+
+position: absolute;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+background: url(image.png);
+
+
+/* wishlist */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 224px;
+top: 32px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 31.25%;
+bottom: 25%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+/* grayscale/900 */
+border: 2px solid #1C1C1C;
+
+
+/* content */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 152px;
+left: 32px;
+top: 304px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* Monitor LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG50 */
+
+position: static;
+width: 240px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* price */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 68px;
+left: 0px;
+top: 84px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* R$ 2.813,99 */
+
+position: static;
+width: 240px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.005em;
+text-decoration-line: line-through;
+
+/* grayscale/600 */
+color: #B5B5B6;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* R$ 2.599,00 */
+
+position: static;
+width: 240px;
+height: 24px;
+left: 0px;
+top: 24px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+letter-spacing: -0.005em;
+
+/* red/500 */
+color: #DA4B4F;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* em até 10x de R$ 259,90 sem juros */
+
+position: static;
+width: 240px;
+height: 16px;
+left: 0px;
+top: 52px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: -0.005em;
+
+/* grayscale/700 */
+color: #848587;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* button */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+position: static;
+width: 240px;
+height: 48px;
+left: 32px;
+top: 488px;
+
+/* green/400 */
+background: #40B25C;
+border-radius: 5px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* BUTTON */
+
+position: static;
+width: 91px;
+height: 24px;
+left: 74.5px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: -0.005em;
+text-transform: uppercase;
+
+/* grayscale/0 */
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* card-button-hover */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+
+position: absolute;
+width: 304px;
+height: 568px;
+left: 1024px;
+top: 228px;
+
+/* grayscale/0 */
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+
+/* image */
+
+position: static;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* image */
+
+position: absolute;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+background: url(image.png);
+
+
+/* wishlist */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 224px;
+top: 32px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 31.25%;
+bottom: 25%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+/* grayscale/900 */
+border: 2px solid #1C1C1C;
+
+
+/* content */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 152px;
+left: 32px;
+top: 304px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* Monitor LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG50 */
+
+position: static;
+width: 240px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* price */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 68px;
+left: 0px;
+top: 84px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* R$ 2.813,99 */
+
+position: static;
+width: 240px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.005em;
+text-decoration-line: line-through;
+
+/* grayscale/600 */
+color: #B5B5B6;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* R$ 2.599,00 */
+
+position: static;
+width: 240px;
+height: 24px;
+left: 0px;
+top: 24px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+letter-spacing: -0.005em;
+
+/* red/500 */
+color: #DA4B4F;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* em até 10x de R$ 259,90 sem juros */
+
+position: static;
+width: 240px;
+height: 16px;
+left: 0px;
+top: 52px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: -0.005em;
+
+/* grayscale/700 */
+color: #848587;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* button */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+position: static;
+width: 240px;
+height: 48px;
+left: 32px;
+top: 488px;
+
+/* green/600 */
+background: #1C6C3E;
+border-radius: 5px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* BUTTON */
+
+position: static;
+width: 91px;
+height: 24px;
+left: 74.5px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: -0.005em;
+text-transform: uppercase;
+
+/* grayscale/0 */
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* card-button-hover */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+
+position: absolute;
+width: 304px;
+height: 568px;
+left: 1456px;
+top: 228px;
+
+/* grayscale/0 */
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+
+/* image */
+
+position: static;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* image */
+
+position: absolute;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 32px;
+
+background: url(image.png);
+
+
+/* wishlist */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 224px;
+top: 32px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 31.25%;
+bottom: 25%;
+
+/* grayscale/200 */
+background: #F2F3F6;
+/* grayscale/900 */
+border: 2px solid #1C1C1C;
+
+
+/* content */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 152px;
+left: 32px;
+top: 304px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* Monitor LED 27'' Gamer Curvo Samsung 1920 x 1080 FHD 240 Hz HDMI, DP, Gsync Série CRG50 */
+
+position: static;
+width: 240px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* price */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 240px;
+height: 68px;
+left: 0px;
+top: 84px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+/* R$ 2.813,99 */
+
+position: static;
+width: 240px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: -0.005em;
+text-decoration-line: line-through;
+
+/* grayscale/600 */
+color: #B5B5B6;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* R$ 2.599,00 */
+
+position: static;
+width: 240px;
+height: 24px;
+left: 0px;
+top: 24px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+letter-spacing: -0.005em;
+
+/* red/500 */
+color: #DA4B4F;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* em até 10x de R$ 259,90 sem juros */
+
+position: static;
+width: 240px;
+height: 16px;
+left: 0px;
+top: 52px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: -0.005em;
+
+/* grayscale/700 */
+color: #848587;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* button */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+position: static;
+width: 240px;
+height: 48px;
+left: 32px;
+top: 488px;
+
+/* green/100 */
+background: #A3F9B9;
+border-radius: 5px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+
+
+/* check 1 */
+
+position: static;
+width: 24px;
+height: 24px;
+left: 49.5px;
+top: 12px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 25%;
+bottom: 29.17%;
+
+/* grayscale/900 */
+border: 2px solid #1C1C1C;
+
+
+/* BUTTON */
+
+position: static;
+width: 105px;
+height: 24px;
+left: 85.5px;
+top: 12px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: -0.005em;
+text-transform: uppercase;
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 12px;
+
+
+/* Card default */
+
+position: absolute;
+width: 118px;
+height: 32px;
+left: 160px;
+top: 164px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+letter-spacing: -0.005em;
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+
+/* Hover do card acionado */
+
+position: absolute;
+width: 226px;
+height: 32px;
+left: 592px;
+top: 164px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+letter-spacing: -0.005em;
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+
+/* Hover do botão acionado */
+
+position: absolute;
+width: 239px;
+height: 32px;
+left: 1024px;
+top: 164px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+letter-spacing: -0.005em;
+
+/* grayscale/900 */
+color: #1C1C1C;
+
+
+
+/* Troca pelo botão ”adicionado” */
+
+position: absolute;
+width: 284px;
+height: 32px;
+left: 1456px;
+top: 164px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+letter-spacing: -0.005em;
+
+/* grayscale/900 */
+color: #1C1C1C;
+
